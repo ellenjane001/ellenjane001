@@ -8,6 +8,14 @@
 <hr>
 <div>
 <img src="https://www.codewars.com/users/ellenjane001/badges/small" alt="codewars-badge-small">
+&nbsp;
+<img src="https://gpvc.arturio.dev/ellenjane001">
+<br>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ellenjane001&theme=dark">
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=ellenjane001&show_icons=true&theme=radical">
+<!--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ellenjane001&theme=dark)](https://git.io/streak-stats)-->
 </div>
 
 <!---
