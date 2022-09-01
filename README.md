@@ -5,15 +5,9 @@
 </div>
 <div align="center">
 <span>👋 Hi, I’m Ellen Jane </span><br>
-<span> 🌱 I’m currently learning web development...</span>
+<span> 🌱 I’m currently learning Web Development</span>
 </div>
 <hr>
-<div align="center">
-<img src="https://www.codewars.com/users/ellenjane001/badges/small" alt="codewars-badge-small">
-&nbsp;
-<img src="https://gpvc.arturio.dev/ellenjane001">
-</div>
-<br>
 <div align="center">
 
 
@@ -23,6 +17,12 @@
 
 
 </div>
+<div align="center">
+<img src="https://www.codewars.com/users/ellenjane001/badges/small" alt="codewars-badge-small">
+&nbsp;
+<img src="https://gpvc.arturio.dev/ellenjane001">
+</div>
+<br>
 <!---
 ellenjane001/ellenjane001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
