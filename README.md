@@ -28,6 +28,14 @@
 ellenjane001/ellenjane001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ellenjane001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+<br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ellenjane001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
