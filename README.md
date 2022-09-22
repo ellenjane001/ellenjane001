@@ -8,7 +8,7 @@
 <span> 🌱 I’m currently learning Web Development</span>
 </div>
 <hr>
-<div>
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ellenjane001&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenjane001&show_icons=true&theme=radical)
