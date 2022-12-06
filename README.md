@@ -24,8 +24,6 @@
 </div>
 <div align="center">
 <img src="https://www.codewars.com/users/ellenjane001/badges/small" alt="codewars-badge-small">
-&nbsp;
-<img src="https://gpvc.arturio.dev/ellenjane001">
 </div>
 <br>
 <!---
