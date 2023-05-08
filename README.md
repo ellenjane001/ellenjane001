@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <span>👋 Hi, I’m Ellen Jane </span><br>
-<span> 🌱 I’m currently learning Web Development</span>
+<span> 🌱 I’m currently learning Web Development and Software Engineering 💻🖱</span>
 </div>
 <hr>
 
