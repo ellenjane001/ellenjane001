@@ -8,11 +8,6 @@
 <span> 🌱 I’m currently learning Web Development and Software Engineering 💻🖱</span>
 </div>
 <hr>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ellenjane001&theme=dark)](https://git.io/streak-stats)
-</div>
 <br>
 <div align="center">
 <img src="https://www.codewars.com/users/ellenjane001/badges/small" alt="codewars-badge-small">
