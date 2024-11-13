@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <span>👋 Hi, I’m Ellen Jane </span><br>
-<span> 🌱 I’m currently learning Web Development and Software Engineering 💻🖱</span>
+<span> 🌱 Fullstack Web | Android Developer 💻🖱</span>
 </div>
 <hr>
 <br>
