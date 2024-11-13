@@ -24,3 +24,12 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 <br>
+
+<div>
+  <span>Development skills and tools</span>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,jenkins,androidstudio,firebase,css,sass,html,js,ts,php,jquery,nextjs,vite,react,nodejs,laravel,mongodb,mysql,postman,wordpress" />
+  </a>
+  </p>
+</div>
